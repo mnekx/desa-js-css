@@ -1,0 +1,22 @@
+{
+  "name": "desa-js-css",
+  "version": "1.0.0",
+  "description": "\"# desa-js-css\"",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnekx/desa-js-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnekx/desa-js-css/issues"
+  },
+  "homepage": "https://github.com/mnekx/desa-js-css#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
