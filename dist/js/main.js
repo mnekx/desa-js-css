@@ -1,6 +1,6 @@
-document
-  .getElementById("kiungo-maskani")
-  .dispatchEvent(new Event("mouseenter", this));
+// document
+//   .getElementById("kiungo-maskani")
+//   .dispatchEvent(new Event("mouseenter", this));
 function onyeshaYaliyomo(kiungo, e, rangi, id) {
   e.preventDefault();
   let viungo, yaliyomo;
